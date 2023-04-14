@@ -6,7 +6,7 @@ module uca.org.javafx {
 
     opens uca.org.javafx to javafx.fxml;
     exports uca.org.javafx;
-    opens uca.org.javafx.tipCalculator to javafx.fxml;
-    exports uca.org.javafx.tipCalculator;
+//    opens uca.org.javafx.tipCalculator to javafx.fxml;
+//    exports uca.org.javafx.tipCalculator;
 
 }
